@@ -1,2 +1,4 @@
 GIT test
 change
+- git add
+- git commit
