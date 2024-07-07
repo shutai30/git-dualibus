@@ -2,4 +2,5 @@ GIT test
 change
 - git add
 - git commit
-git remove
+- git remove
+- git status
